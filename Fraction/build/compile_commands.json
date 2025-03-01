@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/aiden/CLionProjects/Fraction/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\Fraction.dir\\main.cpp.obj -c C:\\Users\\aiden\\CLionProjects\\Fraction\\main.cpp",
+  "file": "C:/Users/aiden/CLionProjects/Fraction/main.cpp",
+  "output": "CMakeFiles/Fraction.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/aiden/CLionProjects/Fraction/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\Fraction.dir\\Fraction.cpp.obj -c C:\\Users\\aiden\\CLionProjects\\Fraction\\Fraction.cpp",
+  "file": "C:/Users/aiden/CLionProjects/Fraction/Fraction.cpp",
+  "output": "CMakeFiles/Fraction.dir/Fraction.cpp.obj"
+}
+]
